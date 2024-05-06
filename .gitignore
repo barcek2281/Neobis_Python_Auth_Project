@@ -90,6 +90,5 @@ venv/
     # Rope project settings
     .ropeproject
     
-    db.sqlite3
-
+db.sqlite3
 .vs
