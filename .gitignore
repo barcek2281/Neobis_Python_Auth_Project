@@ -91,3 +91,5 @@ venv/
     .ropeproject
     
     db.sqlite3
+
+.vs
